@@ -27,12 +27,12 @@
   - MVP, MVVM, Clean Architecture 등 아키텍쳐 패턴에 대한 공부
   - [MVP-Study](https://github.com/KRMKGOLD/Android-MVPSample), [MVVM-Study](https://github.com/KRMKGOLD/Android-MVVMSample)
 
-#### AAC / Jetpack Study
+### AAC / Jetpack Study
 
 - [AAC / Jetpack Study](https://github.com/KRMKGOLD/Android-Jetpack-Study)
   - Android Architecture Components 및 Jetpack에 대한 공부
 
-#### RxJava
+### RxJava
 
 - [Rxjava Study](https://github.com/KRMKGOLD/RxJava-Study)
   - 리액티브 프로그래밍인 RxJava에 대한 공부
