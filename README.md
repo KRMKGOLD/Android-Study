@@ -36,3 +36,9 @@
 
 - [Rxjava Study](https://github.com/KRMKGOLD/RxJava-Study)
   - 리액티브 프로그래밍인 RxJava에 대한 공부
+  
+### Dependency Injection
+
+- [DI Study](https://github.com/KRMKGOLD/DI_Study)
+  - DI에 대해 알아보고, Android에서 사용되는 DI 라이브러리인 Dagger2와 Koin을 공부
+  
