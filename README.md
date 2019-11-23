@@ -26,6 +26,9 @@
 - [Android Architecture Pattern Study](https://github.com/KRMKGOLD/Android-Architecture-Pattern)
   - MVP, MVVM, Clean Architecture 등 아키텍쳐 패턴에 대한 공부
   - [MVP-Study](https://github.com/KRMKGOLD/Android-MVPSample), [MVVM-Study](https://github.com/KRMKGOLD/Android-MVVMSample)
+- Repository Pattern, Clean Architecture
+  - Model  패턴
+  - 취업 역량 강화 및 개발 중인 [TaxiPot](https://github.com/TaxiPot/TaxiPot_Android)  여러 자료를 이용해 공부하기
 
 ### AAC / Jetpack Study
 
