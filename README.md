@@ -37,7 +37,7 @@
 
 ### RxJava
 
-- [Rxjava Study](https://github.com/KRMKGOLD/RxJava-Study)
+- [RxStudy](https://github.com/KRMKGOLD/RxStudy)
   - 리액티브 프로그래밍인 RxJava에 대한 공부
   
 ### Dependency Injection
